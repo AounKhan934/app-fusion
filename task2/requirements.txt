@@ -1,0 +1,5 @@
+customtkinter>=5.2.0
+matplotlib>=3.7.0
+pandas>=2.0.0
+fpdf2>=2.7.0
+pillow>=10.0.0
